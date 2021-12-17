@@ -25,6 +25,9 @@
         &[href*="instagram.com"]::before {
             background-image: url(../img/icono_instagram.svg);
         }
+        &[href*="pinterest.com"]::before {
+            background-image: url(../img/icono_pinterest.svg);
+        }
         &[href*="youtube.com"]::before {
             background-image: url(../img/icono_youtube.svg);
         }
